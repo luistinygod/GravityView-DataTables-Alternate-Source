@@ -1,0 +1,9 @@
+[submodule "datatables"]
+	path = js/datatables
+	url = git://github.com/DataTables/DataTables.git
+[submodule "tabletools"]
+	path = js/tabletools
+	url = git://github.com/DataTables/TableTools.git
+[submodule "scroller"]
+	path = js/scroller
+	url = git://github.com/DataTables/Scroller.git
